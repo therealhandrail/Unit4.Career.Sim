@@ -1,0 +1,28 @@
+{
+  "name": "unit4.career.sim",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therealhandrail/Unit4.Career.Sim.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/therealhandrail/Unit4.Career.Sim/issues"
+  },
+  "homepage": "https://github.com/therealhandrail/Unit4.Career.Sim#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
